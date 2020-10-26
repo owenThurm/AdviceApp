@@ -1,2 +1,5 @@
 # AdviceApp
-an advice app
+
+Displays advice using an advice api
+
+- using js and react
